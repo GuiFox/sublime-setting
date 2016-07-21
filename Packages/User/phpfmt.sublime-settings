@@ -1,0 +1,10 @@
+{
+	"enable_auto_align": true,
+	"format_on_save": true,
+	"indent_with_space": true,
+	"option": "value",
+	"php_bin": "D:/ProgramFiles/UPUPW_NP5.6/PHP5/php.exe",
+	"psr1": true,
+	"psr2": true,
+	"version": 4
+}
